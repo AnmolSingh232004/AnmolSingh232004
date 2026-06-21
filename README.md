@@ -42,8 +42,8 @@
 ### 📊 Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-188_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
-[![Commits](https://img.shields.io/badge/GitHub_Commits_(2024)-299-2088FF?style=flat&logo=github&logoColor=white)](https://github.com/AnmolSingh232004)
-[![Java](https://img.shields.io/badge/Primary_Language-Java_59%25-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/AnmolSingh232004)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh232004&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh232004&layout=compact&hide_border=true&theme=default)
 
 ---
 
@@ -52,4 +52,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-singh-47a484171/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anmol.singh232004@gmail.com)
-![GitHub Streak](https://streak-stats.demolab.com?user=AnmolSingh232004&theme=default&hide_border=true)
