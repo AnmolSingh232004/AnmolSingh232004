@@ -42,7 +42,7 @@
 ### 📊 Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-188_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh232004&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh232004&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh232004&layout=compact&hide_border=true&theme=default)
 
 ---
