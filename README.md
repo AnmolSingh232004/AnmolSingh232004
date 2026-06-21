@@ -12,7 +12,7 @@
 - 💼 Previously: paid freelance backend contract with an international client
 - 💻 188 problems solved on LeetCode — Arrays, Hash Tables, Trees, DP, Backtracking
 - 📬 Reach me at **anmol.singh232004@gmail.com**
-- 🎮 Outside of code: history deep-dives, strategy games, and Barotrauma
+- 🎮 Outside of code: history deep-dives, strategy games, military and space tech
 
 ---
 
