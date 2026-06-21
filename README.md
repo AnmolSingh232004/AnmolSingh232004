@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🚀 Shipped **[QuickVend](https://quickvend-rho.vercel.app)** — production-grade full-stack e-commerce with Razorpay, CI/CD, and Docker
+- 🔨 Building **[QuickVend](https://quickvend-rho.vercel.app)** — production-grade full-stack e-commerce with Razorpay, CI/CD, and Docker
 - 📖 Currently learning **System Design** and deepening DSA fundamentals
 - 🏆 Top 15 / ~4,000 at **Mastercard Code Cubicle 3.0** Hackathon
 - 💼 Previously: paid freelance backend contract with an international client (Greece)
