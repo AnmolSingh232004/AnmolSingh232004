@@ -6,13 +6,13 @@
 
 ### About me
 
-- 🔨 Building **[QuickVend](https://quickvend-rho.vercel.app)** — production-grade full-stack e-commerce with Razorpay, CI/CD, and Docker
+- 🚀 Shipped **[QuickVend](https://quickvend-rho.vercel.app)** — production-grade full-stack e-commerce with Razorpay, CI/CD, and Docker
 - 📖 Currently learning **System Design** and deepening DSA fundamentals
 - 🏆 Top 15 / ~4,000 at **Mastercard Code Cubicle 3.0** Hackathon
 - 💼 Previously: paid freelance backend contract with an international client
 - 💻 188 problems solved on LeetCode — Arrays, Hash Tables, Trees, DP, Backtracking
 - 📬 Reach me at **anmol.singh232004@gmail.com**
-- 🎮 Outside of code: history deep-dives, video games (Espacially grand strategy), military and space tech
+- 🎮 Outside of code: history deep-dives, strategy games, and Barotrauma
 
 ---
 
