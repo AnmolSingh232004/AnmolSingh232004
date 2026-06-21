@@ -9,7 +9,7 @@
 - 🚀 Shipped **[QuickVend](https://quickvend-rho.vercel.app)** — production-grade full-stack e-commerce with Razorpay, CI/CD, and Docker
 - 📖 Currently learning **System Design** and deepening DSA fundamentals
 - 🏆 Top 15 / ~4,000 at **Mastercard Code Cubicle 3.0** Hackathon
-- 💼 Previously: paid freelance backend contract with an international client
+- 💼 Previously: paid freelance backend contract with an international client (Greece)
 - 💻 188 problems solved on LeetCode — Arrays, Hash Tables, Trees, DP, Backtracking
 - 📬 Reach me at **anmol.singh232004@gmail.com**
 - 🎮 Outside of code: history deep-dives, strategy games, and Barotrauma
@@ -42,8 +42,8 @@
 ### 📊 Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-188_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh232004&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh232004&layout=compact&hide_border=true&theme=default)
+[![Commits](https://img.shields.io/badge/GitHub_Commits_(2024)-299-2088FF?style=flat&logo=github&logoColor=white)](https://github.com/AnmolSingh232004)
+[![Java](https://img.shields.io/badge/Primary_Language-Java_59%25-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/AnmolSingh232004)
 
 ---
 
