@@ -1,53 +1,51 @@
-# 👋 Hi, I'm Anmol Singh
+# Anmol Singh
 
-**Backend & Full-Stack Developer · B.Tech CS '27 · Gurugram, India**
+**Java Backend Developer | Spring Boot | PostgreSQL**
+B.Tech in Computer Science (2027), Gurugram, India
 
----
-
-### About me
-
-- 📖 Currently learning **System Design** and deepening DSA fundamentals
-- 🏆 Top 15 / ~4,000 at **Mastercard Code Cubicle 3.0** Hackathon
-- 💼 Previously: paid freelance backend contract with an international client 
-- 💻 188 problems solved on LeetCode — Arrays, Hash Tables, Trees, DP, Backtracking
-- 📬 Reach me at **anmol.singh232004@gmail.com**
-- 🎮 Outside of code: history deep-dives, video games (Espacially grand strategy), and military and space tech !
+I build REST APIs with Java and Spring Boot: authentication, payments, database design and containerized deployment. I'm looking for junior backend and SDE roles.
 
 ---
 
-### 🛠️ Tech stack
+## About
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
+- Freelance backend developer (2025): built 7 REST APIs for an activity and session management platform, working directly with a senior engineer.
+- Top 15 of ~4,000 at the Code Cubicle 3.0 Hackathon, Mastercard.
+- 188 LeetCode problems solved in Java: arrays, hash tables, binary search, trees, DP, backtracking.
+- Currently learning system design and going deeper on DSA.
+- Outside code: history, grand strategy games, military and space tech.
 
 ---
 
-### 📌 Featured projects
+## Tech stack
 
-| Project | Stack | Links |
-|---|---|---|
-| **QuickVend** — Full-stack e-commerce with Razorpay, PDF invoices, admin dashboard, CI/CD | Java · Spring Boot · React 19 · Docker · GitHub Actions | [Live](https://quickvend-rho.vercel.app) · [GitHub](https://github.com/AnmolSingh232004/QuickVend) |
-| **AI Interview Prep Platform** — LLM-powered MCQ generation with JWT auth and personalized feedback | Spring Boot · React · LLM API · Docker | [Live](https://ai-powerd-interview-prep.vercel.app) · [GitHub](https://github.com/AnmolSingh232004/AI-Powered-Interview-Preparation-Platform) |
-
----
-
-### 📊 Stats
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-188_solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolSingh232004&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSingh232004&layout=compact&hide_border=true&theme=default)
+| Area | Tools |
+|---|---|
+| Language | Java 17, SQL |
+| Backend | Spring Boot, Spring Security, Hibernate/JPA, REST APIs, JWT |
+| Databases | PostgreSQL, MySQL |
+| DevOps | Docker, Docker Compose, GitHub Actions (CI/CD) |
+| Tools | Git, IntelliJ IDEA, Postman, Newman, Swagger |
+| AI | LLM API integration, prompt engineering |
 
 ---
 
-### 🤝 Connect
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-singh-47a484171/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anmol_Singh_23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anmol.singh232004@gmail.com)
+### QuickVend (backend)
+E-commerce REST API with JWT authentication, product search and pagination, cart, wishlist, coupons, a full order lifecycle (Pending, Confirmed, Shipped, Delivered) with stock restoration on cancellation, Razorpay payments and PDF invoices.
+**Stack:** Java 17, Spring Boot, Spring Security, PostgreSQL, Docker Compose, GitHub Actions
+**Code:** https://github.com/AnmolSingh232004/QuickVend
+
+### AI Interview Prep Platform (backend)
+Backend for an interview practice app. Generates MCQs by role, topic and difficulty using the Groq LLM API (Llama 3.1), validates the AI's JSON output, scores sessions and returns AI feedback. Stateless JWT authentication.
+**Stack:** Java, Spring Boot, PostgreSQL, JWT, Groq API, Docker
+**Code:** https://github.com/AnmolSingh232004/AI-Powered-Interview-Preparation-Platform
+
+---
+
+## Contact
+
+- Email: anmol.singh232004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anmol-singh-47a484171
+- LeetCode: https://leetcode.com/u/Anmol_Singh_23
