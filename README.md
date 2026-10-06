@@ -11,7 +11,7 @@ I build REST APIs with Java and Spring Boot: authentication, payments, database 
 
 - Freelance backend developer (2025): built 7 REST APIs for an activity and session management platform, working directly with a senior engineer.
 - Top 15 of ~4,000 at the Code Cubicle 3.0 Hackathon, Mastercard.
-- 188 LeetCode problems solved in Java: arrays, hash tables, binary search, trees, DP, backtracking.
+- 200 LeetCode problems solved in Java: arrays, hash tables, binary search, trees, DP, backtracking.
 - Currently learning system design and going deeper on DSA.
 - Outside code: history, grand strategy games, military and space tech.
 
